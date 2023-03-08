@@ -2,7 +2,7 @@
 
 ## Algorithm
 arXiv 2023, [Diffusion Policy: Visuomotor Policy Learning via Action Diffusion](https://diffusion-policy.cs.columbia.edu/)
-![](https://github.com/YanjieZe/Visualization-for-Research/tree/main/imgs/diffusion_policy.svg)
+![](https://raw.githubusercontent.com/YanjieZe/Visualization-for-Research/main/imgs/diffusion_policy.svg)
 
 
 CVPR 2023, [ECON: Explicit Clothed humans Obtained from Normals](https://xiuyuliang.cn/econ/)
